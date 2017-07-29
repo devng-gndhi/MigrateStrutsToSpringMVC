@@ -1,0 +1,25 @@
+1. Replace struts libraries with spring libraries.
+
+
+Struts basic libraries :
+
+    struts.jar
+    struts-legacy.jar
+    etc...etc
+
+
+Spring basic libraries :
+
+    standard.jar
+    org.springframework.asm-4.0.1.RELEASE-A.jar
+    org.springframework.beans-4.0.1.RELEASE-A.jar
+    org.springframework.context-4.0.1.RELEASE-A.jar
+    org.springframework.core-4.0.1.RELEASE-A.jar
+    org.springframework.expression-4.0.1.RELEASE-A.jar
+    org.springframework.web.servlet-4.0.1.RELEASE-A.jar
+    org.springframework.web-4.0.1.RELEASE-A.jar
+    etc...etc
+    
+Step 2: Change made to web.xml file for struts to spring migration
+Step 3: Replace config files for struts to spring migration
+
